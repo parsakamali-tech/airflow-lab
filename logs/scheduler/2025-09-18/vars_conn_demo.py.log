@@ -1,0 +1,420 @@
+[2025-09-18T12:33:09.523+0000] {processor.py:161} INFO - Started process (PID=6612) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:33:09.552+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T12:33:09.601+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:33:09.599+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:33:11.806+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:33:12.396+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:33:12.395+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T12:33:12.536+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:33:12.535+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T12:33:12.747+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 3.278 seconds
+[2025-09-18T12:33:43.489+0000] {processor.py:161} INFO - Started process (PID=6630) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:33:43.494+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T12:33:43.500+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:33:43.499+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:33:43.551+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:33:43.657+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:33:43.656+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T12:33:43.697+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:33:43.696+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T12:33:43.755+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.282 seconds
+[2025-09-18T12:34:14.029+0000] {processor.py:161} INFO - Started process (PID=6645) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:34:14.033+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T12:34:14.036+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:34:14.035+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:34:14.091+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:34:14.213+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:34:14.212+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T12:34:14.252+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:34:14.251+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T12:34:14.341+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.333 seconds
+[2025-09-18T12:34:44.450+0000] {processor.py:161} INFO - Started process (PID=6660) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:34:44.451+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T12:34:44.452+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:34:44.452+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:34:44.470+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:34:44.512+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:34:44.512+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T12:34:44.530+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:34:44.530+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T12:34:44.554+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.110 seconds
+[2025-09-18T12:35:15.010+0000] {processor.py:161} INFO - Started process (PID=6675) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:35:15.012+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T12:35:15.013+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:35:15.013+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:35:15.040+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:35:15.117+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:35:15.117+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T12:35:15.136+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:35:15.136+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T12:35:15.160+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.162 seconds
+[2025-09-18T12:35:45.510+0000] {processor.py:161} INFO - Started process (PID=6690) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:35:45.511+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T12:35:45.512+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:35:45.511+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:35:45.530+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:35:45.570+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:35:45.570+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T12:35:45.589+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:35:45.588+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T12:35:45.626+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.121 seconds
+[2025-09-18T12:36:15.955+0000] {processor.py:161} INFO - Started process (PID=6705) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:36:15.956+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T12:36:15.957+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:36:15.957+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:36:15.977+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:36:16.016+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:36:16.016+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T12:36:16.033+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:36:16.033+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T12:36:16.059+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.111 seconds
+[2025-09-18T12:36:46.765+0000] {processor.py:161} INFO - Started process (PID=6720) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:36:46.767+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T12:36:46.768+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:36:46.767+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:36:46.789+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:36:46.826+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:36:46.826+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T12:36:46.843+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:36:46.843+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T12:36:46.875+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.117 seconds
+[2025-09-18T12:37:17.463+0000] {processor.py:161} INFO - Started process (PID=6735) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:37:17.464+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T12:37:17.465+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:37:17.465+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:37:17.484+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:37:17.521+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:37:17.521+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T12:37:17.536+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:37:17.536+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T12:37:17.561+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.104 seconds
+[2025-09-18T12:37:48.355+0000] {processor.py:161} INFO - Started process (PID=6750) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:37:48.357+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T12:37:48.358+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:37:48.357+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:37:48.376+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:37:48.411+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:37:48.411+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T12:37:48.427+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:37:48.427+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T12:37:48.455+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.105 seconds
+[2025-09-18T12:38:19.166+0000] {processor.py:161} INFO - Started process (PID=6765) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:38:19.167+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T12:38:19.168+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:38:19.167+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:38:19.184+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:38:19.219+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:38:19.219+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T12:38:19.236+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:38:19.236+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T12:38:19.265+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.105 seconds
+[2025-09-18T12:38:49.583+0000] {processor.py:161} INFO - Started process (PID=6780) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:38:49.584+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T12:38:49.585+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:38:49.585+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:38:49.607+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:38:49.650+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:38:49.650+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T12:38:49.669+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:38:49.669+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T12:38:49.699+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.124 seconds
+[2025-09-18T12:39:20.096+0000] {processor.py:161} INFO - Started process (PID=6795) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:39:20.097+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T12:39:20.098+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:39:20.098+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:39:20.116+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:39:20.152+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:39:20.152+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T12:39:20.168+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:39:20.168+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T12:39:20.193+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.103 seconds
+[2025-09-18T12:39:50.492+0000] {processor.py:161} INFO - Started process (PID=6810) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:39:50.493+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T12:39:50.494+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:39:50.494+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:39:50.511+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:39:50.548+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:39:50.548+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T12:39:50.565+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:39:50.565+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T12:39:50.590+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.104 seconds
+[2025-09-18T12:40:21.098+0000] {processor.py:161} INFO - Started process (PID=6825) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:40:21.099+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T12:40:21.101+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:40:21.100+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:40:21.135+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:40:21.178+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:40:21.177+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T12:40:21.195+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:40:21.194+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T12:40:21.221+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.129 seconds
+[2025-09-18T12:40:51.918+0000] {processor.py:161} INFO - Started process (PID=6840) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:40:51.919+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T12:40:51.920+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:40:51.920+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:40:51.939+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:40:51.980+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:40:51.980+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T12:40:51.997+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:40:51.997+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T12:40:52.022+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.112 seconds
+[2025-09-18T12:41:22.626+0000] {processor.py:161} INFO - Started process (PID=6855) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:41:22.627+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T12:41:22.628+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:41:22.627+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:41:22.645+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:41:22.679+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:41:22.679+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T12:41:22.696+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:41:22.695+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T12:41:22.730+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.111 seconds
+[2025-09-18T12:41:53.457+0000] {processor.py:161} INFO - Started process (PID=6870) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:41:53.458+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T12:41:53.459+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:41:53.458+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:41:53.476+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:41:53.516+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:41:53.516+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T12:41:53.532+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:41:53.532+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T12:41:53.557+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.107 seconds
+[2025-09-18T12:42:24.329+0000] {processor.py:161} INFO - Started process (PID=6885) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:42:24.330+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T12:42:24.331+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:42:24.330+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:42:24.345+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:42:24.382+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:42:24.382+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T12:42:24.399+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:42:24.399+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T12:42:24.428+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.104 seconds
+[2025-09-18T12:42:55.152+0000] {processor.py:161} INFO - Started process (PID=6900) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:42:55.153+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T12:42:55.154+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:42:55.154+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:42:55.168+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:42:55.201+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:42:55.201+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T12:42:55.217+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:42:55.217+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T12:42:55.247+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.100 seconds
+[2025-09-18T12:43:25.984+0000] {processor.py:161} INFO - Started process (PID=6915) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:43:25.985+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T12:43:25.986+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:43:25.986+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:43:26.003+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:43:26.041+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:43:26.041+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T12:43:26.058+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:43:26.058+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T12:43:26.087+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.111 seconds
+[2025-09-18T12:43:56.746+0000] {processor.py:161} INFO - Started process (PID=6930) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:43:56.747+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T12:43:56.749+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:43:56.748+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:43:56.766+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:43:56.805+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:43:56.805+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T12:43:56.821+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:43:56.821+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T12:43:56.850+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.111 seconds
+[2025-09-18T12:44:26.998+0000] {processor.py:161} INFO - Started process (PID=6945) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:44:26.999+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T12:44:27.000+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:44:27.000+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:44:27.019+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:44:27.054+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:44:27.054+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T12:44:27.070+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:44:27.070+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T12:44:27.099+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.108 seconds
+[2025-09-18T12:44:57.837+0000] {processor.py:161} INFO - Started process (PID=6960) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:44:57.838+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T12:44:57.839+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:44:57.839+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:44:57.860+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:44:57.907+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:44:57.907+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T12:44:57.925+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:44:57.924+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T12:44:57.958+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.131 seconds
+[2025-09-18T12:45:28.741+0000] {processor.py:161} INFO - Started process (PID=6975) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:45:28.743+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T12:45:28.744+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:45:28.743+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:45:28.763+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:45:28.797+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:45:28.797+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T12:45:28.813+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:45:28.813+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T12:45:28.842+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.107 seconds
+[2025-09-18T12:45:59.612+0000] {processor.py:161} INFO - Started process (PID=6990) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:45:59.613+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T12:45:59.614+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:45:59.614+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:45:59.632+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:45:59.671+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:45:59.670+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T12:45:59.687+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:45:59.687+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T12:45:59.982+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.376 seconds
+[2025-09-18T12:46:30.841+0000] {processor.py:161} INFO - Started process (PID=7005) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:46:30.842+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T12:46:30.843+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:46:30.843+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:46:30.860+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:46:30.895+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:46:30.895+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T12:46:30.910+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:46:30.910+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T12:46:30.940+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.106 seconds
+[2025-09-18T12:47:01.817+0000] {processor.py:161} INFO - Started process (PID=7020) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:47:01.818+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T12:47:01.819+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:47:01.819+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:47:01.837+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:47:01.870+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:47:01.870+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T12:47:01.886+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:47:01.886+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T12:47:01.916+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.106 seconds
+[2025-09-18T12:47:32.669+0000] {processor.py:161} INFO - Started process (PID=7035) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:47:32.670+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T12:47:32.672+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:47:32.671+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:47:32.691+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:47:32.727+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:47:32.726+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T12:47:32.741+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:47:32.741+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T12:47:32.767+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.105 seconds
+[2025-09-18T12:48:03.528+0000] {processor.py:161} INFO - Started process (PID=7050) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:48:03.529+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T12:48:03.531+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:48:03.530+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:48:03.548+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:48:03.586+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:48:03.586+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T12:48:03.602+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:48:03.602+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T12:48:03.631+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.109 seconds
+[2025-09-18T12:48:34.480+0000] {processor.py:161} INFO - Started process (PID=7065) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:48:34.482+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T12:48:34.483+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:48:34.482+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:48:34.500+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:48:34.536+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:48:34.536+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T12:48:34.553+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:48:34.552+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T12:48:34.579+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.106 seconds
+[2025-09-18T12:49:05.323+0000] {processor.py:161} INFO - Started process (PID=7080) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:49:05.324+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T12:49:05.325+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:49:05.324+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:49:05.343+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:49:05.379+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:49:05.379+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T12:49:05.400+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:49:05.400+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T12:49:05.426+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.109 seconds
+[2025-09-18T12:49:36.238+0000] {processor.py:161} INFO - Started process (PID=7095) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:49:36.239+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T12:49:36.240+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:49:36.240+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:49:36.255+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:49:36.291+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:49:36.291+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T12:49:36.308+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:49:36.307+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T12:49:36.336+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.103 seconds
+[2025-09-18T12:50:06.999+0000] {processor.py:161} INFO - Started process (PID=7110) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:50:07.000+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T12:50:07.001+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:50:07.000+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:50:07.020+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:50:07.056+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:50:07.056+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T12:50:07.069+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:50:07.069+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T12:50:07.096+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.104 seconds
+[2025-09-18T12:50:37.891+0000] {processor.py:161} INFO - Started process (PID=7125) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:50:37.893+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T12:50:37.894+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:50:37.893+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:50:37.912+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:50:37.948+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:50:37.948+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T12:50:37.966+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:50:37.966+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T12:50:37.997+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.112 seconds
+[2025-09-18T12:51:08.733+0000] {processor.py:161} INFO - Started process (PID=7140) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:51:08.734+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T12:51:08.735+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:51:08.735+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:51:08.754+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:51:08.795+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:51:08.795+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T12:51:08.812+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:51:08.812+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T12:51:08.842+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.116 seconds
+[2025-09-18T12:51:39.564+0000] {processor.py:161} INFO - Started process (PID=7155) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:51:39.565+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T12:51:39.568+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:51:39.567+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:51:39.586+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:51:39.624+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:51:39.623+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T12:51:39.638+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:51:39.638+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T12:51:39.667+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.109 seconds
+[2025-09-18T12:52:10.394+0000] {processor.py:161} INFO - Started process (PID=7170) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:52:10.395+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T12:52:10.396+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:52:10.395+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:52:10.414+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:52:10.455+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:52:10.454+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T12:52:10.471+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:52:10.471+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T12:52:10.499+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.112 seconds
+[2025-09-18T12:52:41.169+0000] {processor.py:161} INFO - Started process (PID=7185) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:52:41.170+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T12:52:41.171+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:52:41.170+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:52:41.188+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:52:41.223+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:52:41.223+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T12:52:41.239+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:52:41.239+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T12:52:41.268+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.106 seconds
+[2025-09-18T12:53:12.004+0000] {processor.py:161} INFO - Started process (PID=7200) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:53:12.005+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T12:53:12.006+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:53:12.006+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:53:12.023+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:53:12.062+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:53:12.062+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T12:53:12.078+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:53:12.078+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T12:53:12.106+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.109 seconds
+[2025-09-18T12:53:42.935+0000] {processor.py:161} INFO - Started process (PID=7215) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:53:42.937+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T12:53:42.938+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:53:42.937+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:53:42.954+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:53:42.993+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:53:42.993+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T12:53:43.009+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:53:43.009+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T12:53:43.039+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.111 seconds
+[2025-09-18T12:54:13.699+0000] {processor.py:161} INFO - Started process (PID=7230) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:54:13.700+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T12:54:13.701+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:54:13.700+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:54:13.719+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:54:13.752+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:54:13.752+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T12:54:13.766+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:54:13.766+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T12:54:13.791+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.098 seconds
+[2025-09-18T12:54:44.434+0000] {processor.py:161} INFO - Started process (PID=7245) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:54:44.435+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T12:54:44.437+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:54:44.436+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:54:44.454+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:54:44.488+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:54:44.488+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T12:54:44.504+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:54:44.504+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T12:54:44.530+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.102 seconds
+[2025-09-18T12:55:15.199+0000] {processor.py:161} INFO - Started process (PID=7260) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:55:15.200+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T12:55:15.201+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:55:15.201+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:55:15.221+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:55:15.265+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:55:15.264+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T12:55:15.283+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:55:15.283+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T12:55:15.317+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.126 seconds
+[2025-09-18T12:55:46.194+0000] {processor.py:161} INFO - Started process (PID=7275) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:55:46.195+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T12:55:46.196+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:55:46.195+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:55:46.211+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:55:46.242+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:55:46.242+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T12:55:46.258+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:55:46.258+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T12:55:46.452+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.263 seconds
+[2025-09-18T12:56:16.851+0000] {processor.py:161} INFO - Started process (PID=7290) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:56:16.852+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T12:56:16.853+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:56:16.853+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:56:16.872+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:56:16.903+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:56:16.903+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T12:56:16.919+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:56:16.919+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T12:56:16.949+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.105 seconds
+[2025-09-18T12:56:47.790+0000] {processor.py:161} INFO - Started process (PID=7305) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:56:47.791+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T12:56:47.792+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:56:47.792+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:56:47.811+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:56:47.846+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:56:47.846+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T12:56:47.862+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:56:47.862+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T12:56:47.893+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.108 seconds
+[2025-09-18T12:57:18.602+0000] {processor.py:161} INFO - Started process (PID=7320) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:57:18.603+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T12:57:18.604+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:57:18.604+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:57:18.623+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:57:18.661+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:57:18.660+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T12:57:18.674+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:57:18.674+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T12:57:18.702+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.105 seconds
+[2025-09-18T12:57:49.349+0000] {processor.py:161} INFO - Started process (PID=7335) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:57:49.350+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T12:57:49.351+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:57:49.351+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:57:49.373+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:57:49.416+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:57:49.415+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T12:57:49.435+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:57:49.434+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T12:57:49.466+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.125 seconds
+[2025-09-18T12:58:19.635+0000] {processor.py:161} INFO - Started process (PID=7350) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:58:19.636+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T12:58:19.637+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:58:19.637+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:58:19.659+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:58:19.699+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:58:19.699+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T12:58:19.715+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:58:19.715+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T12:58:19.894+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.269 seconds
+[2025-09-18T12:58:50.330+0000] {processor.py:161} INFO - Started process (PID=7365) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:58:50.331+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T12:58:50.333+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:58:50.333+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:58:50.350+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:58:50.387+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:58:50.386+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T12:58:50.402+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:58:50.402+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T12:58:50.430+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.106 seconds
+[2025-09-18T12:59:20.655+0000] {processor.py:161} INFO - Started process (PID=7380) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:59:20.657+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T12:59:20.658+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:59:20.658+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:59:20.683+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:59:20.726+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:59:20.726+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T12:59:20.751+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:59:20.751+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T12:59:20.778+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.133 seconds
+[2025-09-18T12:59:51.261+0000] {processor.py:161} INFO - Started process (PID=7395) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:59:51.263+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T12:59:51.265+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:59:51.264+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:59:51.291+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T12:59:51.332+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:59:51.332+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T12:59:51.351+0000] {logging_mixin.py:188} INFO - [2025-09-18T12:59:51.351+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T12:59:51.381+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.129 seconds
+[2025-09-18T13:00:21.788+0000] {processor.py:161} INFO - Started process (PID=7410) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T13:00:21.789+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T13:00:21.790+0000] {logging_mixin.py:188} INFO - [2025-09-18T13:00:21.790+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T13:00:21.806+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T13:00:21.837+0000] {logging_mixin.py:188} INFO - [2025-09-18T13:00:21.837+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T13:00:21.850+0000] {logging_mixin.py:188} INFO - [2025-09-18T13:00:21.850+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T13:00:21.873+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.090 seconds
+[2025-09-18T13:00:52.320+0000] {processor.py:161} INFO - Started process (PID=7425) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T13:00:52.322+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T13:00:52.323+0000] {logging_mixin.py:188} INFO - [2025-09-18T13:00:52.323+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T13:00:52.343+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T13:00:52.378+0000] {logging_mixin.py:188} INFO - [2025-09-18T13:00:52.378+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T13:00:52.395+0000] {logging_mixin.py:188} INFO - [2025-09-18T13:00:52.394+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T13:00:52.419+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.105 seconds
+[2025-09-18T13:01:22.941+0000] {processor.py:161} INFO - Started process (PID=7440) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T13:01:22.942+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T13:01:22.943+0000] {logging_mixin.py:188} INFO - [2025-09-18T13:01:22.943+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T13:01:22.963+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T13:01:23.000+0000] {logging_mixin.py:188} INFO - [2025-09-18T13:01:23.000+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T13:01:23.014+0000] {logging_mixin.py:188} INFO - [2025-09-18T13:01:23.014+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T13:01:23.093+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.159 seconds
+[2025-09-18T13:01:53.705+0000] {processor.py:161} INFO - Started process (PID=7455) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T13:01:53.706+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T13:01:53.706+0000] {logging_mixin.py:188} INFO - [2025-09-18T13:01:53.706+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T13:01:53.722+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T13:01:53.757+0000] {logging_mixin.py:188} INFO - [2025-09-18T13:01:53.757+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T13:01:53.774+0000] {logging_mixin.py:188} INFO - [2025-09-18T13:01:53.773+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T13:01:53.798+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.099 seconds
+[2025-09-18T13:02:24.177+0000] {processor.py:161} INFO - Started process (PID=7470) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T13:02:24.178+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T13:02:24.179+0000] {logging_mixin.py:188} INFO - [2025-09-18T13:02:24.178+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T13:02:24.194+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T13:02:24.230+0000] {logging_mixin.py:188} INFO - [2025-09-18T13:02:24.230+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T13:02:24.246+0000] {logging_mixin.py:188} INFO - [2025-09-18T13:02:24.246+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T13:02:24.291+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.121 seconds
+[2025-09-18T13:02:54.777+0000] {processor.py:161} INFO - Started process (PID=7485) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T13:02:54.778+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T13:02:54.780+0000] {logging_mixin.py:188} INFO - [2025-09-18T13:02:54.779+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T13:02:54.801+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T13:02:54.842+0000] {logging_mixin.py:188} INFO - [2025-09-18T13:02:54.842+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T13:02:54.859+0000] {logging_mixin.py:188} INFO - [2025-09-18T13:02:54.859+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T13:02:54.887+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.116 seconds
+[2025-09-18T13:03:25.514+0000] {processor.py:161} INFO - Started process (PID=7500) to work on /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T13:03:25.515+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/vars_conn_demo.py for tasks to queue
+[2025-09-18T13:03:25.516+0000] {logging_mixin.py:188} INFO - [2025-09-18T13:03:25.516+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T13:03:25.533+0000] {processor.py:840} INFO - DAG(s) 'vars_conns_demo' retrieved from /opt/airflow/dags/vars_conn_demo.py
+[2025-09-18T13:03:25.573+0000] {logging_mixin.py:188} INFO - [2025-09-18T13:03:25.573+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-09-18T13:03:25.589+0000] {logging_mixin.py:188} INFO - [2025-09-18T13:03:25.589+0000] {dag.py:3947} INFO - Setting next_dagrun for vars_conns_demo to None, run_after=None
+[2025-09-18T13:03:25.618+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/vars_conn_demo.py took 0.109 seconds

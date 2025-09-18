@@ -1,0 +1,20 @@
+[2025-09-16T13:36:37.182+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2025-09-16T13:36:37.244+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: vars_conns_demo.show_variable manual__2025-09-16T13:36:35.964750+00:00 [queued]>
+[2025-09-16T13:36:37.255+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: vars_conns_demo.show_variable manual__2025-09-16T13:36:35.964750+00:00 [queued]>
+[2025-09-16T13:36:37.259+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 1
+[2025-09-16T13:36:37.279+0000] {taskinstance.py:2330} INFO - Executing <Task(_PythonDecoratedOperator): show_variable> on 2025-09-16 13:36:35.964750+00:00
+[2025-09-16T13:36:37.287+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'vars_conns_demo', 'show_variable', 'manual__2025-09-16T13:36:35.964750+00:00', '--job-id', '9', '--raw', '--subdir', 'DAGS_FOLDER/vars_conn_demo.py', '--cfg-path', '/tmp/tmpilen9qu2']
+[2025-09-16T13:36:37.290+0000] {logging_mixin.py:188} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:62 DeprecationWarning: This process (pid=977) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2025-09-16T13:36:37.291+0000] {standard_task_runner.py:91} INFO - Job 9: Subtask show_variable
+[2025-09-16T13:36:37.291+0000] {standard_task_runner.py:64} INFO - Started process 979 to run task
+[2025-09-16T13:36:37.372+0000] {task_command.py:426} INFO - Running <TaskInstance: vars_conns_demo.show_variable manual__2025-09-16T13:36:35.964750+00:00 [running]> on host 0d34ce0f8ee7
+[2025-09-16T13:36:37.499+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='vars_conns_demo' AIRFLOW_CTX_TASK_ID='show_variable' AIRFLOW_CTX_EXECUTION_DATE='2025-09-16T13:36:35.964750+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-09-16T13:36:35.964750+00:00'
+[2025-09-16T13:36:37.501+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2025-09-16T13:36:37.514+0000] {logging_mixin.py:188} INFO - [VAR] etl_env = dev
+[2025-09-16T13:36:37.515+0000] {python.py:237} INFO - Done. Returned value was: dev
+[2025-09-16T13:36:37.515+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2025-09-16T13:36:37.553+0000] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=vars_conns_demo, task_id=show_variable, run_id=manual__2025-09-16T13:36:35.964750+00:00, execution_date=20250916T133635, start_date=20250916T133637, end_date=20250916T133637
+[2025-09-16T13:36:37.587+0000] {local_task_job_runner.py:243} INFO - Task exited with return code 0
+[2025-09-16T13:36:37.610+0000] {dagrun.py:940} ERROR - Failed to get task for ti <TaskInstance: vars_conns_demo.echo_template manual__2025-09-16T13:36:35.964750+00:00 [None]>. Marking it as removed.
+[2025-09-16T13:36:37.614+0000] {taskinstance.py:3503} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-09-16T13:36:37.620+0000] {local_task_job_runner.py:222} INFO - ::endgroup::
