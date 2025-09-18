@@ -10,6 +10,7 @@ x-airflow-common: &airflow-common
     - ./dags:/opt/airflow/dags
     - ./logs:/opt/airflow/logs
     - ./plugins:/opt/airflow/plugins
+    - ./input/ready.flag:/opt/airflow/input/ready.flag
   depends_on:
     - postgres
 

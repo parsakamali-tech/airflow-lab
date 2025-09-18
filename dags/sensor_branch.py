@@ -6,7 +6,7 @@ from airflow.operators.python import BranchPythonOperator
 from airflow.operators.empty import EmptyOperator
 from airflow.models import Variable
 
-FLAG = "/opt/input/ready.flag"
+FLAG = "/opt/airflow/input/ready.flag"
 
 def diag_file_is_ready():
     exists = os.path.exists(FLAG)
